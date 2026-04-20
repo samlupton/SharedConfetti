@@ -7,4 +7,5 @@
 
 import UIKit
 
+/// Name space container.
 public enum Confetti {}
