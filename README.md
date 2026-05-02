@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-iOS-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swift_Package-Compatible-orange?style=flat-square&logo=swift" />
   <a href="https://github.com/samlupton/Plume/actions">
     <img src="https://github.com/samlupton/Plume/actions/workflows/swift.yml/badge.svg" />
   </a>
